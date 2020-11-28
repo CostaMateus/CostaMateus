@@ -14,6 +14,10 @@
   <img align="left" alt="Facebook Mateus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=costamateus.costamateus)
+
+<br />
+
 ```php
 <?php
 

@@ -1,16 +1,34 @@
-### Hi there 👋
+```php
+<?php
 
-<!--
-**CostaMateus/CostaMateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+namespace MateusCosta;
 
-Here are some ideas to get you started:
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'TDW Bi Consulting | Triibo',
+                'position' => 'PHP Dev',
+            ]
+        ];
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public function getKnowledge(): array
+    {
+        return [
+            Php::class,
+            Laravel::class,
+            Bootstrap::class,
+            Javascript::class,
+            Sql::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+```

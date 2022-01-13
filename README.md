@@ -42,6 +42,7 @@ class About extends Me
             Laravel::class,
             Bootstrap::class,
             Javascript::class,
+            NodeJs::class,
             Sql::class,
         ];
     }

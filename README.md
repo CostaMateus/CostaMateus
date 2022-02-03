@@ -40,6 +40,7 @@ class About extends Me
         return [
             Php::class,
             Laravel::class,
+            WordPress::class,
             Bootstrap::class,
             Javascript::class,
             NodeJs::class,

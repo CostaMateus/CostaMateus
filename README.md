@@ -1,5 +1,5 @@
 
-### Oi, eu sou o Mateus e bem-vindo ao meu GitHub.
+### Olá, eu sou o Mateus e bem-vindo ao meu GitHub.
 
 <a href="https://costamateus.com.br/">
   <img align="left" alt="MLC" width="22px" src="https://www.costamateus.com.br/favicon.ico" />
@@ -38,13 +38,14 @@ class About extends Me
     public function getKnowledge(): array
     {
         return [
-            Php::class,
-            Laravel::class,
-            WordPress::class,
             Bootstrap::class,
             Javascript::class,
+            Laravel::class,
             NodeJs::class,
+            Php::class,
             Sql::class,
+            VueJs::class,
+            WordPress::class,
         ];
     }
 
@@ -54,3 +55,6 @@ class About extends Me
     }
 }
 ```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

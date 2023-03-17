@@ -21,5 +21,6 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "True"
-          LOCALE: "pt_BR"
+          SHOW_TOTAL_CODE_TIME: "True"
+          LOCALE: "pt-BR"
           SYMBOL_VERSION: "3"

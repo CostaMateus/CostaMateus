@@ -65,7 +65,7 @@ class About extends Me
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 2,080 Contribuições no ano de 2023
+> 🏆 2,085 Contribuições no ano de 2023
  > 
 > 📦 1.5 MB Usado no armazenamento do GitHub 
  > 
@@ -102,8 +102,7 @@ domingo      53 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Other                    8 hrs 35 mins       █████████████████████████   99.52% 
-PHP                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
+Other                    7 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -119,5 +118,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- *Updated on 31/07/2023 01:00:26 UTC*
+ *Updated on 01/08/2023 01:04:54 UTC*
 <!--END_SECTION:waka-->

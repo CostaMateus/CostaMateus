@@ -57,7 +57,7 @@ class About extends Me
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C617%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C618%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -102,7 +102,7 @@ domingo      53 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Other                    7 hrs 13 mins       █████████████████████████   100.0%
+Other                    7 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
@@ -118,5 +118,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- *Updated on 01/08/2023 01:04:54 UTC*
+ *Updated on 02/08/2023 00:58:26 UTC*
 <!--END_SECTION:waka-->

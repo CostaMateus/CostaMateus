@@ -57,7 +57,7 @@ class About extends Me
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C773%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C782%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -67,7 +67,7 @@ class About extends Me
 
 > 🏆 2,243 Contribuições no ano de 2023
  > 
-> 📦 1.5 MB Usado no armazenamento do GitHub 
+> 📦 1.6 MB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
@@ -102,11 +102,11 @@ domingo      53 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Other                    39 hrs 56 mins      ██████████████████░░░░░░░   73.41% 
-PHP                      6 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-JavaScript               4 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
-Vue.js                   1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45% 
-JSON                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+Other                    35 hrs 31 mins      █████████████████░░░░░░░░   69.25% 
+JavaScript               8 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
+PHP                      4 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
+Vue.js                   1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
+JSON                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
 
 ```
 
@@ -122,5 +122,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- *Updated on 25/08/2023 00:49:21 UTC*
+ *Updated on 26/08/2023 00:44:37 UTC*
 <!--END_SECTION:waka-->

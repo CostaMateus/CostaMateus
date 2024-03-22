@@ -57,17 +57,15 @@ class About extends Me
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C253%20hrs%2042%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-113.5%20million%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-114.0%20million%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 1.7 MB Usado no armazenamento do GitHub 
  > 
-> 🏆 451 Contribuições no ano de 2024
+> 🏆 453 Contribuições no ano de 2024
  > 
 > 💼 Aberto para contratação
  > 
@@ -75,40 +73,6 @@ class About extends Me
  > 
 > 🔑 35 Repositórios Privados 
  > 
-**Eu sou diurno 🐤** 
-
-```text
-🌞 Manhã                  39936 commits       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.34 % 
-🌆 Tarde                  99218 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.95 % 
-🌃 Noite                  18147 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.51 % 
-🌙 Madrugada              316 commits         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.20 % 
-```
-📅 **Sou mais produtivo em Quinta-Feira** 
-
-```text
-Segunda-Feira            31630 commits       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.07 % 
-Terça-Feira              33559 commits       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.29 % 
-Quarta-Feira             19166 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.16 % 
-Quinta-Feira             36076 commits       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.89 % 
-Sexta-Feira              26904 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.07 % 
-Sábado                   2188 commits        ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.39 % 
-Domingo                  8094 commits        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.14 % 
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-🕑︎ Fuso horário: America/Sao_Paulo
-
-💬 Linguagens de programação: 
-Other                    25 hrs 2 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   80.35 % 
-PHP                      4 hrs 16 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.73 % 
-Blade Template           40 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.17 % 
-JavaScript               29 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.57 % 
-JSON                     24 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.30 % 
-```
-
 **Eu geralmente programo em PHP** 
 
 ```text
@@ -121,5 +85,5 @@ Java                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 18/03/2024 00:57:46 UTC
+ Last Updated on 22/03/2024 00:55:39 UTC
 <!--END_SECTION:waka-->

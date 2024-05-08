@@ -59,13 +59,13 @@ class About extends Me
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-119.1%20million%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-119.5%20million%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 1.7 MB Usado no armazenamento do GitHub 
  > 
-> 🏆 961 Contribuições no ano de 2024
+> 🏆 962 Contribuições no ano de 2024
  > 
 > 💼 Aberto para contratação
  > 
@@ -85,5 +85,5 @@ Java                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 04/05/2024 01:00:23 UTC
+ Last Updated on 08/05/2024 00:57:34 UTC
 <!--END_SECTION:waka-->

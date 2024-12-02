@@ -57,6 +57,8 @@ class About extends Me
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C009%20hrs%2011%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-135.2%20million%20linhas%20de%20c%C3%B3digo-blue)
@@ -85,5 +87,5 @@ Java                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 01/12/2024 00:57:18 UTC
+ Last Updated on 02/12/2024 00:55:11 UTC
 <!--END_SECTION:waka-->

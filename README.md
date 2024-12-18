@@ -123,3 +123,5 @@ Java                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
  Last Updated on 18/12/2024 01:11:26 UTC
 <!--END_SECTION:waka-->
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@costamateus)](https://github.com/anuraghazra/github-readme-stats)

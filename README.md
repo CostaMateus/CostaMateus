@@ -124,4 +124,4 @@ Java                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  Last Updated on 18/12/2024 01:11:26 UTC
 <!--END_SECTION:waka-->
 
-[![GitHub stats](https://github-readme-stats-costa.vercel.app/api?username=costamateus)](https://github.com/CostaMateus/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-costamateus.vercel.app/api?username=costamateus)](https://github.com/CostaMateus/github-readme-stats)

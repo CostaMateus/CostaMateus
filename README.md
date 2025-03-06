@@ -1,21 +1,20 @@
 # <div  align="center" >👨‍💻 Mateus Costa | Desenvolvedor Full-Stack</div>
 
 <div  align="center" >
-    <a href="https://costamateus.com.br/" style="text-decoration:none!important;" >
-        <img align="center" alt="Site Mateus"      width="22px" src="https://www.costamateus.com.br/favicon.ico" />
+    <a href="https://costamateus.com.br/" style="text-decoration: none;" >
+        <img align="center" alt="Site Mateus" width="30px" src="https://www.costamateus.com.br/favicon.ico" />
     </a>
-    <a href="https://www.linkedin.com/in/costamateus6/" style="text-decoration:none!important;" >
-        <img align="center" alt="LinkedIn Mateus"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <a href="https://www.linkedin.com/in/costamateus6/" style="text-decoration: none;" >
+        <img align="center" alt="LinkedIn Mateus" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
-    <a href="https://www.instagram.com/mateuslc6/" style="text-decoration:none!important;" >
-        <img align="center" alt="Instagram Mateus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <a href="https://www.instagram.com/mateuslc6/" style="text-decoration: none;" >
+        <img align="center" alt="Instagram Mateus" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
-    <a href="https://www.facebook.com/costamateus6/" style="text-decoration:none!important;" >
-        <img align="center" alt="Facebook Mateus"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
+    <a href="https://www.facebook.com/costamateus6/" style="text-decoration: none;" >
+        <img align="center" alt="Facebook Mateus" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
     </a>
 </div>
 
-<br>
 <br>
 
 <div  align="center" >

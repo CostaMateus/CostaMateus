@@ -1,21 +1,24 @@
 # <div  align="center" >👨‍💻 Mateus Costa | Desenvolvedor Full-Stack</div>
 
 <div  align="center" >
-    <a href="https://costamateus.com.br/" >
+    <a href="https://costamateus.com.br/" style="text-decoration:none!important;" >
         <img align="center" alt="Site Mateus"      width="22px" src="https://www.costamateus.com.br/favicon.ico" />
     </a>
-    <a href="https://www.linkedin.com/in/costamateus6/" >
+    <a href="https://www.linkedin.com/in/costamateus6/" style="text-decoration:none!important;" >
         <img align="center" alt="LinkedIn Mateus"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
-    <a href="https://www.instagram.com/mateuslc6/" >
+    <a href="https://www.instagram.com/mateuslc6/" style="text-decoration:none!important;" >
         <img align="center" alt="Instagram Mateus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
-    <a href="https://www.facebook.com/costamateus6/" >
+    <a href="https://www.facebook.com/costamateus6/" style="text-decoration:none!important;" >
         <img align="center" alt="Facebook Mateus"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
     </a>
 </div>
 
-<div  align="center" style="margin-top:10px;" >
+<br>
+<br>
+
+<div  align="center" >
     <img alt="PHP"        src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img alt="Laravel"    src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"  />
     <img alt="WordPress"  src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -97,7 +100,7 @@ class About extends Me
  >
 > 🔑 31 Repositórios Privados
  >
-**Eu sou diurno 🐤** 
+**Eu sou diurno 🐤**
 
 ```text
 🌞 Manhã                  105356 commits      ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.89 %

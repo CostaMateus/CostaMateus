@@ -97,7 +97,7 @@ class About extends Me
 - 🛒 **E-commerce** - Implementação de lojas virtuais e sistemas de pagamento
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C637%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C642%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -106,8 +106,6 @@ class About extends Me
 **🐱 Meus dados no GitHub** 
 
 > 📦 2.4 MB Usado no armazenamento do GitHub 
- > 
-> 🏆 2,400 Contribuições no ano de 2025
  > 
 > 💼 Aberto para contratação
  > 
@@ -142,9 +140,9 @@ Domingo                  932 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Other                    35 hrs 6 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   79.43 % 
-PHP                      7 hrs 12 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.31 % 
-Blade Template           1 hr 38 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.72 % 
+Other                    34 hrs 19 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   76.42 % 
+PHP                      7 hrs 53 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.55 % 
+Blade Template           2 hrs 17 mins       ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.11 % 
 Bash                     7 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.29 % 
 SQL                      6 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.25 % 
 ```
@@ -162,5 +160,5 @@ TypeScript               1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 21/07/2025 00:22:20 UTC
+ Last Updated on 22/07/2025 00:17:59 UTC
 <!--END_SECTION:waka-->

@@ -97,6 +97,8 @@ class About extends Me
 - 🛒 **E-commerce** - Implementação de lojas virtuais e sistemas de pagamento
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C876%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-147.1%20million%20linhas%20de%20c%C3%B3digo-blue)
@@ -105,7 +107,7 @@ class About extends Me
 
 > 📦 2.4 MB Usado no armazenamento do GitHub 
  > 
-> 🏆 3,515 Contribuições no ano de 2025
+> 🏆 3,549 Contribuições no ano de 2025
  > 
 > 💼 Aberto para contratação
  > 
@@ -126,5 +128,5 @@ TypeScript               1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 08/09/2025 00:17:53 UTC
+ Last Updated on 10/09/2025 00:17:24 UTC
 <!--END_SECTION:waka-->

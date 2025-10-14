@@ -48,8 +48,8 @@ class About extends Me
     public function getCurrentWorkplace() : array
     {
         return [
-            "workplace" => [],
-            "status"    => "available for new opportunities"
+            "workplace" => "Ação Engenharia e Instalações Ltda",
+            "status"    => "Available for freelance opportunities",
         ];
     }
 
@@ -95,6 +95,7 @@ class About extends Me
 - 🔌 **Plugins WordPress** - Desenvolvimento de soluções personalizadas
 - 🔄 **Integrações via API** - Conexão entre diferentes sistemas e plataformas
 - 🛒 **E-commerce** - Implementação de lojas virtuais e sistemas de pagamento
+- ⚙️ **Migração e Modernização de Sistemas PHP** – Atualização de aplicações legadas (ex: PHP 5 → PHP 8, reescrita em Laravel) com foco em performance, segurança e manutenibilidade
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C066%20hrs%2041%20mins-blue)

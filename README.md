@@ -98,19 +98,19 @@ class About extends Me
 - ⚙️ **Migração e Modernização de Sistemas PHP** – Atualização de aplicações legadas (ex: PHP 5 → PHP 8, reescrita em Laravel) com foco em performance, segurança e manutenibilidade
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C145%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C148%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-176.48%20million%20linhas%20de%20c%C3%B3digo-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-164.98%20million%20linhas%20de%20c%C3%B3digo-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 2.9 MB Usado no armazenamento do GitHub 
  > 
-> 🏆 1,734 Contribuições no ano de 2026
+> 🏆 1,752 Contribuições no ano de 2026
  > 
 > 💼 Aberto para contratação
  > 
@@ -121,21 +121,21 @@ class About extends Me
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  14254 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.09 % 
-🌆 Tarde                  19518 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.20 % 
-🌃 Noite                  12803 commits       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.03 % 
-🌙 Madrugada              796 commits         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.68 % 
+🌞 Manhã                  13997 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.18 % 
+🌆 Tarde                  19199 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.40 % 
+🌃 Noite                  12428 commits       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.80 % 
+🌙 Madrugada              752 commits         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.62 % 
 ```
-📅 **Sou mais produtivo em Terça-Feira** 
+📅 **Sou mais produtivo em Quarta-Feira** 
 
 ```text
-Segunda-Feira            8070 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.04 % 
-Terça-Feira              9170 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.36 % 
-Quarta-Feira             9161 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.34 % 
-Quinta-Feira             8254 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.42 % 
-Sexta-Feira              7718 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.29 % 
-Sábado                   3654 commits        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.71 % 
-Domingo                  1344 commits        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.84 % 
+Segunda-Feira            7901 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.04 % 
+Terça-Feira              9027 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.46 % 
+Quarta-Feira             9093 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.61 % 
+Quinta-Feira             8006 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.26 % 
+Sexta-Feira              7592 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.37 % 
+Sábado                   3464 commits        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.47 % 
+Domingo                  1293 commits        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.79 % 
 ```
 
 
@@ -145,35 +145,35 @@ Domingo                  1344 commits        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Other                    38 hrs 5 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   60.82 % 
-PHP                      14 hrs 33 mins      ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.23 % 
-Markdown                 3 hrs 3 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.88 % 
-Blade Template           1 hr 49 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.91 % 
-Bash                     1 hr 21 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.17 % 
+Other                    36 hrs 19 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   60.42 % 
+PHP                      13 hrs 52 mins      ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.08 % 
+Markdown                 3 hrs 3 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.07 % 
+Blade Template           1 hr 34 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63 % 
+Bash                     1 hr 19 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 50 mins (41.25%)
+⏱ AI Coding Time: 24 hrs 22 mins (40.54%)
 
-✍️ 15,949 lines written by AI, 574 lines written by hand (96.53% AI-written)
+✍️ 14,737 lines written by AI, 521 lines written by hand (96.59% AI-written)
 
-🔤 577,343,867 Input Tokens, 1,758,573 Output Tokens
+🔤 554,773,224 Input Tokens, 1,627,598 Output Tokens
 
-💵 $2937.40 Estimated AI Cost This Week
+💵 $2820.61 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 205 AI Prompts
+🧠 27 AI Sessions, 191 AI Prompts
 
-GPT                      16,584 lines        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+GPT                      15,559 lines        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.53% of written lines came from AI
-📄 Detailed Prompter — average 971 characters per prompt
+🤖 AI-Driven — 96.59% of written lines came from AI
+📄 Detailed Prompter — average 933 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 29.95% of changed lines were hand-edited
+🚀 High AI Trust — 20.3% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 00:36:49 UTC
+ Last Updated on 06/08/2026 00:33:31 UTC
 <!--END_SECTION:waka-->

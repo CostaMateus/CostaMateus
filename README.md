@@ -104,13 +104,13 @@ class About extends Me
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-176.75%20million%20linhas%20de%20c%C3%B3digo-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-170.47%20million%20linhas%20de%20c%C3%B3digo-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 2.9 MB Usado no armazenamento do GitHub 
  > 
-> 🏆 1,919 Contribuições no ano de 2026
+> 🏆 2,091 Contribuições no ano de 2026
  > 
 > 💼 Aberto para contratação
  > 
@@ -121,21 +121,21 @@ class About extends Me
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  14505 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.24 % 
-🌆 Tarde                  19851 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.38 % 
-🌃 Noite                  12816 commits       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.72 % 
-🌙 Madrugada              798 commits         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.66 % 
+🌞 Manhã                  14090 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.31 % 
+🌆 Tarde                  19246 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.40 % 
+🌃 Noite                  12373 commits       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.62 % 
+🌙 Madrugada              775 commits         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.67 % 
 ```
-📅 **Sou mais produtivo em Quarta-Feira** 
+📅 **Sou mais produtivo em Terça-Feira** 
 
 ```text
-Segunda-Feira            8213 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.12 % 
-Terça-Feira              9217 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.21 % 
-Quarta-Feira             9319 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.43 % 
-Quinta-Feira             8390 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.49 % 
-Sexta-Feira              7833 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.33 % 
-Sábado                   3654 commits        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.62 % 
-Domingo                  1344 commits        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.80 % 
+Segunda-Feira            7884 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.96 % 
+Terça-Feira              8970 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.30 % 
+Quarta-Feira             8966 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.29 % 
+Quinta-Feira             8150 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.53 % 
+Sexta-Feira              7650 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.46 % 
+Sábado                   3554 commits        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.65 % 
+Domingo                  1310 commits        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.82 % 
 ```
 
 
@@ -159,11 +159,11 @@ YAML                     28 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ✍️ 8,840 lines written by AI, 1,689 lines written by hand (83.96% AI-written)
 
-🔤 11,530,881 Input Tokens, 943,198 Output Tokens
+🔤 11,604,333 Input Tokens, 965,674 Output Tokens
 
-💵 $244.95 Estimated AI Cost This Week
+💵 $246.03 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 182 AI Prompts
+🧠 29 AI Sessions, 182 AI Prompts
 
 GPT                      9,174 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 Codex-Vscode             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
@@ -176,5 +176,5 @@ Codex-Vscode             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 
- Last Updated on 18/08/2026 00:20:04 UTC
+ Last Updated on 19/08/2026 00:19:43 UTC
 <!--END_SECTION:waka-->

@@ -98,9 +98,9 @@ class About extends Me
 - ⚙️ **Migração e Modernização de Sistemas PHP** – Atualização de aplicações legadas (ex: PHP 5 → PHP 8, reescrita em Laravel) com foco em performance, segurança e manutenibilidade
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C194%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C198%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-221%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue?style=flat)
 
@@ -145,36 +145,36 @@ Domingo                  1310 commits        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Other                    29 hrs 10 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   61.06 % 
-PHP                      12 hrs 20 mins      ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.83 % 
-SQL                      1 hr 56 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.06 % 
-Bash                     42 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.50 % 
-JSON                     37 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.30 % 
+Other                    31 hrs 59 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   65.02 % 
+PHP                      11 hrs 31 mins      ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.44 % 
+SQL                      1 hr 14 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.52 % 
+Bash                     57 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.94 % 
+Blade Template           35 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 37 mins (30.63%)
+⏱ AI Coding Time: 12 hrs 30 mins (25.43%)
 
-✍️ 10,774 lines written by AI, 992 lines written by hand (91.57% AI-written)
+✍️ 10,987 lines written by AI, 89,983 lines written by hand (10.88% AI-written)
 
-🔤 10,916,585 Input Tokens, 1,107,229 Output Tokens
+🔤 8,956,518 Input Tokens, 977,404 Output Tokens
 
-💵 $253.65 Estimated AI Cost This Week
+💵 $243.06 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 170 AI Prompts
+🧠 25 AI Sessions, 135 AI Prompts
 
-GPT                      11,601 lines        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+GPT                      11,756 lines        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 Codex-Vscode             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.57% of written lines came from AI
-📄 Detailed Prompter — average 916 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 16.22% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 10.88% of written lines came from AI
+📄 Detailed Prompter — average 1,066 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 88.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 00:18:39 UTC
+ Last Updated on 24/08/2026 00:22:19 UTC
 <!--END_SECTION:waka-->
